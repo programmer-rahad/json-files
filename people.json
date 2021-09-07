@@ -1,19 +1,4 @@
 [
-  {
-    "gender": "female",
-    "name": { "title": "Miss", "first": "درسا", "last": "جعفری" },
-    "location": {
-      "street": { "number": 5572, "name": "پارک دانشجو" },
-      "city": "سنندج",
-      "state": "کرمان",
-      "country": "Iran",
-      "postcode": 97622,
-      "coordinates": { "latitude": "35.8005", "longitude": "81.4231" },
-      "timezone": {
-        "offset": "+7:00",
-        "description": "Bangkok, Hanoi, Jakarta"
-      }
-    },
     "email": "drs.jaafry@example.com",
     "login": {
       "uuid": "502c8e8c-fa29-427e-a9b7-73907f8c5bc7",
