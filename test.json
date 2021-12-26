@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "srcOFF": "https://www.w3schools.com/js/pic_bulboff.gif",
+    "srcON": "https://www.w3schools.com/js/pic_bulbon.gif"
+  },
+  {
+    "id": 2,
+    "srcOFF": "https://www.w3schools.com/js/pic_bulboff.gif",
+    "srcON": "https://www.w3schools.com/js/pic_bulbon.gif"
+  },
+  {
+    "id": 3,
+    "srcOFF": "https://www.w3schools.com/js/pic_bulboff.gif",
+    "srcON": "https://www.w3schools.com/js/pic_bulbon.gif"
+  },
+  {
+    "id": 4,
+    "srcOFF": "https://www.w3schools.com/js/pic_bulboff.gif",
+    "srcON": "https://www.w3schools.com/js/pic_bulbon.gif"
+  }
+]
