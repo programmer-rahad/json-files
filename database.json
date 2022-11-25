@@ -1,0 +1,45 @@
+{
+  "header": {
+    "logo": {
+      "text": "comfy sloth",
+      "url": "https://react-course-comfy-sloth-store.netlify.app/static/media/logo.221f6b13e6eaaad5828372464f73a1a4.svg"
+    },
+    "links": [
+      {
+        "id": 1,
+        "text": "home"
+      },
+      {
+        "id": 2,
+        "text": "services"
+      },
+      {
+        "id": 3,
+        "text": "products"
+      },
+      {
+        "id": 4,
+        "text": "dropdown",
+        "dropdown": true,
+        "links": [
+          {
+            "id": 1,
+            "text": "page one"
+          },
+          {
+            "id": 2,
+            "text": "page two"
+          },
+          {
+            "id": 3,
+            "text": "page three"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "text": "about"
+      }
+    ]
+  }
+}
