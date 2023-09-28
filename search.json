@@ -1,0 +1,32 @@
+[
+  {
+    "link": "https://www.example.com",
+    "title": "Example Website",
+    "description": "This is an example website used for demonstration purposes.",
+    "snippet": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod justo non augue facilisis luctus."
+  },
+  {
+    "link": "https://www.samplepage.com",
+    "title": "Sample Page",
+    "description": "Explore a sample webpage with various content and features.",
+    "snippet": "Sed eget tellus id risus vehicula congue. Aliquam nec aliquam ante, non cursus tortor."
+  },
+  {
+    "link": "https://www.demo-site.com",
+    "title": "Demo Site",
+    "description": "Visit this demo site to see interactive demos of web technologies.",
+    "snippet": "Vivamus ultricies odio eget justo ullamcorper, nec convallis orci posuere. Fusce at turpis ut sapien."
+  },
+  {
+    "link": "https://www.testsearch.com",
+    "title": "Test Search Results",
+    "description": "Test your search functionality with these sample search results.",
+    "snippet": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
+  },
+  {
+    "link": "https://www.productreviewsite.com",
+    "title": "Product Reviews",
+    "description": "Read reviews and find the best products in various categories.",
+    "snippet": "Duis id leo id elit dignissim tincidunt. Integer auctor vestibulum dolor, et varius ex placerat at."
+  }
+]
