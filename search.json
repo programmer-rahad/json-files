@@ -1,32 +1,97 @@
 [
   {
-    "link": "https://www.example.com",
-    "title": "Example Website",
-    "description": "This is an example website used for demonstration purposes.",
-    "snippet": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod justo non augue facilisis luctus."
+    "icon": "https://www.britannica.com/favicon.ico",
+    "name": "Britannica",
+    "link": "https://www.britannica.com/biography/Shah-Jahan",
+    "title": "Shah Jahan | Facts, Taj Mahal, & Family",
+    "description": "Shah Jahan, Mughal emperor of India (1628–58) who built the Taj Mahal. He was the third son of Jahangir. His reign was notable for its successes against the"
   },
   {
-    "link": "https://www.samplepage.com",
-    "title": "Sample Page",
-    "description": "Explore a sample webpage with various content and features.",
-    "snippet": "Sed eget tellus id risus vehicula congue. Aliquam nec aliquam ante, non cursus tortor."
+    "name": "Taj Mahal",
+    "link": "https://www.tajmahal.gov.in/about-shah-Jahan.aspx",
+    "title": "About Shah Jahan",
+    "description": "Shah Jahan, Mughal emperor of India (1628–58) who built the Taj Mahal. He was the third son of Jahangir. His reign was notable for its successes against the"
   },
   {
-    "link": "https://www.demo-site.com",
-    "title": "Demo Site",
-    "description": "Visit this demo site to see interactive demos of web technologies.",
-    "snippet": "Vivamus ultricies odio eget justo ullamcorper, nec convallis orci posuere. Fusce at turpis ut sapien."
+    "name": "Wonders-of-the-World.net",
+    "link": "https://www.wonders-of-the-world.net/Taj-Mahal/Shah-Jahan.php",
+    "title": "Shah Jahan - Biography",
+    "description": "Shah Jahan is the 5th Mughal emperor, coming after Bâbur, Humâyûn, Akbar, and Jahângîr, his father. His mother was Princess Nûr Jahân, a woman who had taken"
   },
   {
-    "link": "https://www.testsearch.com",
-    "title": "Test Search Results",
-    "description": "Test your search functionality with these sample search results.",
-    "snippet": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
+    "icon": "https://www.britannica.com/favicon.ico",
+    "name": "Britannica",
+    "link": "https://www.britannica.com/biography/Shah-Jahan",
+    "title": "Shah Jahan | Facts, Taj Mahal, & Family",
+    "description": "Shah Jahan, Mughal emperor of India (1628–58) who built the Taj Mahal. He was the third son of Jahangir. His reign was notable for its successes against the"
   },
   {
-    "link": "https://www.productreviewsite.com",
-    "title": "Product Reviews",
-    "description": "Read reviews and find the best products in various categories.",
-    "snippet": "Duis id leo id elit dignissim tincidunt. Integer auctor vestibulum dolor, et varius ex placerat at."
+    "name": "Taj Mahal",
+    "link": "https://www.tajmahal.gov.in/about-shah-Jahan.aspx",
+    "title": "About Shah Jahan",
+    "description": "Shah Jahan, Mughal emperor of India (1628–58) who built the Taj Mahal. He was the third son of Jahangir. His reign was notable for its successes against the"
+  },
+  {
+    "name": "Wonders-of-the-World.net",
+    "link": "https://www.wonders-of-the-world.net/Taj-Mahal/Shah-Jahan.php",
+    "title": "Shah Jahan - Biography",
+    "description": "Shah Jahan is the 5th Mughal emperor, coming after Bâbur, Humâyûn, Akbar, and Jahângîr, his father. His mother was Princess Nûr Jahân, a woman who had taken"
+  },
+  {
+    "icon": "https://www.britannica.com/favicon.ico",
+    "name": "Britannica",
+    "link": "https://www.britannica.com/biography/Shah-Jahan",
+    "title": "Shah Jahan | Facts, Taj Mahal, & Family",
+    "description": "Shah Jahan, Mughal emperor of India (1628–58) who built the Taj Mahal. He was the third son of Jahangir. His reign was notable for its successes against the"
+  },
+  {
+    "name": "Taj Mahal",
+    "link": "https://www.tajmahal.gov.in/about-shah-Jahan.aspx",
+    "title": "About Shah Jahan",
+    "description": "Shah Jahan, Mughal emperor of India (1628–58) who built the Taj Mahal. He was the third son of Jahangir. His reign was notable for its successes against the"
+  },
+  {
+    "name": "Wonders-of-the-World.net",
+    "link": "https://www.wonders-of-the-world.net/Taj-Mahal/Shah-Jahan.php",
+    "title": "Shah Jahan - Biography",
+    "description": "Shah Jahan is the 5th Mughal emperor, coming after Bâbur, Humâyûn, Akbar, and Jahângîr, his father. His mother was Princess Nûr Jahân, a woman who had taken"
+  },
+  {
+    "icon": "https://www.britannica.com/favicon.ico",
+    "name": "Britannica",
+    "link": "https://www.britannica.com/biography/Shah-Jahan",
+    "title": "Shah Jahan | Facts, Taj Mahal, & Family",
+    "description": "Shah Jahan, Mughal emperor of India (1628–58) who built the Taj Mahal. He was the third son of Jahangir. His reign was notable for its successes against the"
+  },
+  {
+    "name": "Taj Mahal",
+    "link": "https://www.tajmahal.gov.in/about-shah-Jahan.aspx",
+    "title": "About Shah Jahan",
+    "description": "Shah Jahan, Mughal emperor of India (1628–58) who built the Taj Mahal. He was the third son of Jahangir. His reign was notable for its successes against the"
+  },
+  {
+    "name": "Wonders-of-the-World.net",
+    "link": "https://www.wonders-of-the-world.net/Taj-Mahal/Shah-Jahan.php",
+    "title": "Shah Jahan - Biography",
+    "description": "Shah Jahan is the 5th Mughal emperor, coming after Bâbur, Humâyûn, Akbar, and Jahângîr, his father. His mother was Princess Nûr Jahân, a woman who had taken"
+  },
+  {
+    "icon": "https://www.britannica.com/favicon.ico",
+    "name": "Britannica",
+    "link": "https://www.britannica.com/biography/Shah-Jahan",
+    "title": "Shah Jahan | Facts, Taj Mahal, & Family",
+    "description": "Shah Jahan, Mughal emperor of India (1628–58) who built the Taj Mahal. He was the third son of Jahangir. His reign was notable for its successes against the"
+  },
+  {
+    "name": "Taj Mahal",
+    "link": "https://www.tajmahal.gov.in/about-shah-Jahan.aspx",
+    "title": "About Shah Jahan",
+    "description": "Shah Jahan, Mughal emperor of India (1628–58) who built the Taj Mahal. He was the third son of Jahangir. His reign was notable for its successes against the"
+  },
+  {
+    "name": "Wonders-of-the-World.net",
+    "link": "https://www.wonders-of-the-world.net/Taj-Mahal/Shah-Jahan.php",
+    "title": "Shah Jahan - Biography",
+    "description": "Shah Jahan is the 5th Mughal emperor, coming after Bâbur, Humâyûn, Akbar, and Jahângîr, his father. His mother was Princess Nûr Jahân, a woman who had taken"
   }
 ]
